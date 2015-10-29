@@ -1,8 +1,8 @@
 #include <vld.h>
 #include <iostream>
 #include <SFML/Graphics.hpp>
-#define LARGEUR 1280
-#define HAUTEUR 720
+#define LARGEUR 800
+#define HAUTEUR 600
 
 using namespace sf;
 
